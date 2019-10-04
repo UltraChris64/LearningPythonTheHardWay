@@ -10,4 +10,5 @@ print("""
 
 """)
 
-print("However this soup ISN'T just ANY soup...it's the mystical Potion Seller Soup")
+print("This may be soup.")
+print("However this soup ISN'T just ANY soup...it's the mystical Potion Seller Soup!")
