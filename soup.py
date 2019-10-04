@@ -9,3 +9,5 @@ print("""
   \______________________/   \__/ \__/ \__/ |
 
 """)
+
+print("However this soup ISN'T just ANY soup...it's the mystical Potion Seller Soup")
